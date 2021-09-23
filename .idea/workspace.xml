@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a5e3f80-8828-4719-9152-f98e8af85fbe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[4a8300db9805]" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="feature/NXT-6846-create-3d-transition-effect-for-stories" />
+                    <option name="lastUsedInstant" value="1629228558" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="develop" />
+                    <option name="lastUsedInstant" value="1629228467" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="feature/NXT-6767-update-offer-segment-ui-in-homepage" />
+                    <option name="lastUsedInstant" value="1628762795" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="feature/NXT-6768-create-story-view-for-showing-stories" />
+                    <option name="lastUsedInstant" value="1628500312" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$/../.." />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="ProjectId" id="1wCxSm6zPViOR0SP9hd74homeco" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/widgets" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/widgets" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a5e3f80-8828-4719-9152-f98e8af85fbe" name="Default Changelist" comment="" />
+      <created>1627976373144</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627976373144</updated>
+    </task>
+    <task id="LOCAL-00001" summary="NXT-6768: Make StoryImage and StoryVideo state classes private">
+      <created>1628760720053</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1628760720053</updated>
+    </task>
+    <task id="LOCAL-00002" summary="NXT-6768: Use whenComplete for calling onComplete after image load">
+      <created>1628762348451</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1628762348451</updated>
+    </task>
+    <task id="LOCAL-00003" summary="NXT-6846: Add CubePageView widget for 3D rotation functionality">
+      <created>1629228184195</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1629228184195</updated>
+    </task>
+    <task id="LOCAL-00004" summary="NXT-6846: Handle progressbar animation and tap gestures in StoryView widget">
+      <created>1629228262313</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1629228262313</updated>
+    </task>
+    <task id="LOCAL-00005" summary="NXT-6846: Integrate CubePageView in MultiMediaStoryView">
+      <created>1629228354080</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1629228354080</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="NXT-6768: Make StoryImage and StoryVideo state classes private" />
+    <MESSAGE value="NXT-6768: Use whenComplete for calling onComplete after image load" />
+    <MESSAGE value="NXT-6846: Add CubePageView widget for 3D rotation functionality" />
+    <MESSAGE value="NXT-6846: Handle progressbar animation and tap gestures in StoryView widget" />
+    <MESSAGE value="NXT-6846: Integrate CubePageView in MultiMediaStoryView" />
+    <option name="LAST_COMMIT_MESSAGE" value="NXT-6846: Integrate CubePageView in MultiMediaStoryView" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="109" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1627993086675">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="109" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1627993086675" />
+    <state x="533" y="170" key="#com.intellij.ide.util.MemberChooser" timestamp="1629207198482">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="170" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1629207198482" />
+    <state x="269" y="25" width="1116" height="816" key="CommitChangelistDialog2" timestamp="1629228353804">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="269" y="82" key="CommitChangelistDialog2/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1628762348141" />
+    <state x="269" y="25" width="1116" height="816" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1629228353804" />
+    <state width="549" height="466" key="DebuggerActiveHint" timestamp="1628404062075">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="549" height="466" key="DebuggerActiveHint/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1628404062075" />
+    <state x="100" y="83" width="1240" height="773" key="DiffContextDialog" timestamp="1629226214208">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1629205882133" />
+    <state x="100" y="83" width="1240" height="773" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1629226214208" />
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.25.1440.816/-1920.25.1920.1055@0.25.1440.816" timestamp="1629213746378" />
+    <state width="1398" height="101" key="GridCell.Tab.0.bottom" timestamp="1629228357703">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="62" key="GridCell.Tab.0.bottom/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1629213328817" />
+    <state width="1398" height="101" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1629228357703" />
+    <state width="989" height="168" key="GridCell.Tab.0.bottom/0.25.1440.816/-1920.25.1920.1055@0.25.1440.816" timestamp="1629210461276" />
+    <state width="1398" height="101" key="GridCell.Tab.0.center" timestamp="1629228357702">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="62" key="GridCell.Tab.0.center/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1629213328815" />
+    <state width="1398" height="101" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1629228357702" />
+    <state width="989" height="168" key="GridCell.Tab.0.center/0.25.1440.816/-1920.25.1920.1055@0.25.1440.816" timestamp="1629210461274" />
+    <state width="1398" height="101" key="GridCell.Tab.0.left" timestamp="1629228357701">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="62" key="GridCell.Tab.0.left/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1629213328814" />
+    <state width="1398" height="101" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1629228357701" />
+    <state width="989" height="168" key="GridCell.Tab.0.left/0.25.1440.816/-1920.25.1920.1055@0.25.1440.816" timestamp="1629210461272" />
+    <state width="1398" height="101" key="GridCell.Tab.0.right" timestamp="1629228357703">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="62" key="GridCell.Tab.0.right/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1629213328816" />
+    <state width="1398" height="101" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1629228357703" />
+    <state width="989" height="168" key="GridCell.Tab.0.right/0.25.1440.816/-1920.25.1920.1055@0.25.1440.816" timestamp="1629210461275" />
+    <state x="256" y="183" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1629213087748">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="256" y="183" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1629213087748" />
+    <state x="412" y="205" width="615" height="490" key="find.popup" timestamp="1628947939488">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="412" y="205" width="615" height="490" key="find.popup/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1628947939488" />
+    <state width="369" height="120" key="javadoc.popup.new" timestamp="1629225446574">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="369" height="120" key="javadoc.popup.new/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1629213221778" />
+    <state width="369" height="120" key="javadoc.popup.new/0.0.1440.900@0.0.1440.900" timestamp="1629225446574" />
+    <state width="369" height="109" key="javadoc.popup.new/0.25.1440.816/-1920.25.1920.1055@0.25.1440.816" timestamp="1629210457924" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1628169410298">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1628169410298" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/example/lib/main.dart</url>
+          <line>48</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/widgets/multimedia_story_view.dart</url>
+          <line>51</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/widgets/multimedia_story_view.dart</url>
+          <line>59</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/widgets/multimedia_story_view.dart</url>
+          <line>92</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
